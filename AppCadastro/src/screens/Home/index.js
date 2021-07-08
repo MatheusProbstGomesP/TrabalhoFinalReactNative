@@ -1,8 +1,6 @@
 import React from 'react';
-import { View, Text, StatusBar, Button } from 'react-native';
+import { View, Text, StatusBar, Button, FlatList} from 'react-native';
 import { useNavigation } from '@react-navigation/native';
-
-
 
 
 export const Home = () => {
